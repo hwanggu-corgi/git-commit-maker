@@ -1,0 +1,18 @@
+User Requirements
+
+- Functional Requirements
+  - We need to build a command-line app that given x input and y interval it commits x amount, pushes to github with y cooldown
+  - We need to build a command-line app that checks for clone count every 15 minutes like a chat app
+  - We need to build a command-line app that allows user to add text to github's README file like a chat app
+- Non-Functional Requirements
+  - The command-line app must be used in flutter app for android
+  - We need to make sure the instruction is sent to program at home (securly)
+
+
+User Stories
+
+- As a User, I want to push x commits to github with y cooldown in between
+- As a User, I want to add a button so the configuration change is applied and works accordingly
+- As a User, I want to see a display whether the commits are successful
+- As a User, I want to be able to add texts to github's README.md
+
