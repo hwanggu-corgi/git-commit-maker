@@ -21,7 +21,7 @@ public class Main implements Callable<Integer> {
 
     public Integer call() throws Exception {
         System.out.println("coolDownAmt: " + coolDownAmt);
-        System.out.println("commitAmt: " + commitAmt);
+        System.out.println("commitAmt: " + commitAmt);x
         System.out.println("message: " + message);
         return 0;
     }

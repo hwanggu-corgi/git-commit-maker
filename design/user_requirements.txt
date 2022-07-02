@@ -11,8 +11,19 @@ User Requirements
 
 User Stories
 
+LoginService
+- As a User, I need to be able to login to my github account
+
+RepoSelectService
+- As a User, I need to be able to select the repository where I want to commit to
+
+CommitService
 - As a User, I want to push x commits to github with y cooldown in between
 - As a User, I want to add a button so the configuration change is applied and works accordingly
+
+OutputDisplayService
 - As a User, I want to see a display whether the commits are successful
+
+MessageService
 - As a User, I want to be able to add texts to github's README.md
 
